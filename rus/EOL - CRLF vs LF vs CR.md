@@ -10,5 +10,5 @@ EOL - End Of Line - конец строки:
 ### Ссылки
 
 - [StackOverflow](https://stackoverflow.com/questions/1552749/difference-between-cr-lf-lf-and-cr-line-break-types)
-- [Wikipedia ENG](https://en.wikipedia.org/wiki/Newline)
-- [Wikipedia RUS](https://ru.wikipedia.org/wiki/Перевод_строки)
+- [Wikipedia_ENG](https://en.wikipedia.org/wiki/Newline)
+- [Wikipedia_RUS](https://ru.wikipedia.org/wiki/Перевод_строки)
