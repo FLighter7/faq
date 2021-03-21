@@ -17,6 +17,7 @@
 | `npm docs` | Open documentation for a package in a web browser
 | `npm publish` | Publish a package to `npm`. Use `npx npm-packlist` to see what will be included in your package
 | `npm version <new-version>` | Set a new version of the package
+| `npm ls` | List all installed packages. Use `-g` to see global packages
 
 ### Difference between `npm i` and `npm ci`
 - `npm i` - install all dependencies, can modify `package.json` or `package-lock.json`, may not install the exact version you specified;
