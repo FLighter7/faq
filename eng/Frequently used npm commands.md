@@ -15,7 +15,7 @@
 | `npx <package> <command>` | Run a command from a local or remote npm package
 | `npm repo` | Open package repository page in the browser
 | `npm docs` | Open documentation for a package in a web browser
-| `npm publish` | Publish a package to `npm`. Use `npx npm-packlist` to see what will be included in your package
+| `npm publish` | Publish a package to `npm`. Use `npx npm-packlist` to see what will be included in your package. Use `npm publish --access public` to publish a scoped package (@user/package-name).
 | `npm version <new-version>` | Set a new version of the package
 | `npm ls` | List all installed packages. Use `-g` to see global packages
 
